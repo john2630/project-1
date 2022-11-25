@@ -1,0 +1,115 @@
+.img{
+    margin-right: 450px;
+    bottom: 2px;
+}
+.top{
+    background-image: url(./img/Cyber-Security-Certification-Course-Computer-Science-Certification-Courses.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.high1{
+    background-image: url(./img/alexandre-pellaes-6vAjp0pscX0-unsplash.jpg);
+    width: 250px;
+    background-position: center;
+}
+.high2{
+    background-image: url(./img/jakob-dalbjorn-cuKJre3nyYc-unsplash.jpg);
+    width: 250px;
+    background-position: center;
+    background-size: cover;
+}
+.high3{
+    background-image: url(./img/miguel-henriques--8atMWER8bI-unsplash.jpg);
+    width: 250px;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+span{
+    color: blue;
+    text-decoration: underline;
+}
+.it{
+    margin-right: 450px;
+}
+.photom-5{
+    margin-right: 100px;
+}
+.people{
+    color: black;
+    text-decoration: none;
+}
+.blur{
+    background-image: url(./img/blurred-floating-particles-hd-wallpaper-thumb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logan{
+    background-image: url(./img/happy-asian-man-standing-with-arms-crossed-grey-wall.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.wilson{
+    position: relative;
+    top: 260px;
+    background-color: white;
+    
+}
+.natalie{
+    background-image: url(./img/portrait-good-looking-brunette-young-asian-woman.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 180px;
+    width: 250px;
+}
+.nata{
+    position: relative;
+    top: 120px;
+    background-color: white;
+}
+.thomas{
+    background-image: url(./img/senior-man-white-sweater-eyeglasses.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 180px;
+    width: 250px;
+}
+.thom{
+    position: relative;
+    top: 120px;
+    background-color: white;
+}
+.isabella{
+    background-image: url(./img/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 180px;
+    width: 250px;
+}
+.isa{
+    position: relative;
+    top: 120px;
+    background-color: white;
+}
+.samantha{
+    background-image: url(./img/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 180px;
+    width: 250px;
+}
+.sam{
+    position: relative;
+    top: 120px;
+    background-color: white;
+}
+.keybord{
+    background-image: url(./img/keyyyyy.jpg)
+}
+.keycard{
+    display: flex;
+    justify-content: center;
+}
+
